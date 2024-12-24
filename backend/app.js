@@ -13,7 +13,7 @@ const configPath = path.resolve(__dirname,    'helpers', 'config.json');
 const machineId = require('node-machine-id');
 let machineID; // Declare machineID variable
 let license ="u3Y65£,;7Y#I";
-const port = process.env.Port || 3000;
+const port = process.env.PORT || 3000;
 // Get the machine ID
 machineId.machineId()
   .then(id => {
@@ -109,7 +109,7 @@ mongoose.connect(process.env.CONNECTION_STRING, {
 })
 
 //Server
-app.listen(port,'0.0.0.0', ()=>{
+app.listen(port, ()=>{
 
     console.log('server is running http://localhost:3000');
 })
