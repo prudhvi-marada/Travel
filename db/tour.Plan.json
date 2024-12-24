@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "66c584537bc8ee2bccb704a2"
+  },
+  "owneremail": "owner@example.com",
+  "tourname": "Adventure in the Alps",
+  "type": "Hiking",
+  "price": "250",
+  "vacancy": "10",
+  "dateCreated": {
+    "$date": "2024-08-21T06:08:19.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c58a24ec2df9151c4c10f4"
+  },
+  "owneremail": "owner@gmail.com",
+  "tourname": "kodaikanal",
+  "type": "family",
+  "price": "3000",
+  "vacancy": "1",
+  "dateCreated": {
+    "$date": "2024-08-21T06:33:08.585Z"
+  },
+  "__v": 0,
+  "image": "public\\uploads\\1724223067783-1724222766347-kodaikanal.jpg"
+},
+{
+  "_id": {
+    "$oid": "66c58e8fec2df9151c4c1157"
+  },
+  "owneremail": "owner@gmail.com",
+  "tourname": "Ooty",
+  "type": "official",
+  "price": "3000",
+  "vacancy": "5",
+  "dateCreated": {
+    "$date": "2024-08-21T06:51:59.960Z"
+  },
+  "__v": 0,
+  "image": "public\\uploads\\1724223139512-1724222391001-1724214116264-ooty.jpg"
+}]

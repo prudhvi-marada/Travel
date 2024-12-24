@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66c59c5231bf311d206d941a"
+  },
+  "owneremail": "owner@gmail.com",
+  "email": "user@gmail.com",
+  "tourname": "kodaikanal",
+  "vacancy": "5",
+  "type": "family",
+  "price": "3000",
+  "cusname": "Arun",
+  "personcount": "4",
+  "mobile": "1234567890",
+  "address": "45,main street,Madurai",
+  "amount": "12000",
+  "dateCreated": {
+    "$date": "2024-08-21T07:50:42.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c5abb931bf311d206d9432"
+  },
+  "owneremail": "owner@gmail.com",
+  "email": "user@gmail.com",
+  "tourname": "Ooty",
+  "vacancy": "10",
+  "type": "official",
+  "price": "3000",
+  "cusname": "ram",
+  "personcount": "5",
+  "mobile": "1234567890",
+  "address": "333,2nd street, T-nagar, Chennai",
+  "amount": "15000",
+  "dateCreated": {
+    "$date": "2024-08-21T08:56:25.298Z"
+  },
+  "__v": 0
+}]

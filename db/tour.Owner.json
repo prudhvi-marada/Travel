@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "65fc17bf9de8ce4cfc956cac"
+  },
+  "isAdmin": false,
+  "city": "Kumbakonam",
+  "name": "Owner",
+  "email": "owner@gmail.com",
+  "passwordHash": "$2a$10$ZxJQNDbVfEh4RpKJK/SNK.Rv4ILr23uWGHGinXlLTqSH3DRuLwzey",
+  "phone": "0987654321",
+  "question1": "dog",
+  "question2": "siva",
+  "__v": 0
+}]

@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "667e888b42d01f1dec82fba6"
+  },
+  "status": "Approved",
+  "lat": 11.1674876,
+  "long": 77.3152116,
+  "owneremail": "owner@gmail.com",
+  "tourname": "kodaikanal",
+  "area": "Mountain",
+  "duration": "6 Days",
+  "tourtype": "Days Only Visit the Tourist place",
+  "itinerary": "- Arrive in Kodaikanal and check into your accommodation.\n- Explore Coaker's Walk for stunning views of the valley.\n- Visit Bryant Park to admire the botanical gardens.\n- Enjoy boating on Kodaikanal Lake and relax by Bear Shola Falls.\n- Discover the Pillar Rocks and Guna Caves for natural wonders.",
+  "deparrival": "24.6.24 to 30.6.24",
+  "accdetails": "Food, Room & Fire camps  ",
+  "reportdrop": "test123",
+  "tourinfo": "test123",
+  "dateCreated": {
+    "$date": "2024-06-28T09:55:23.898Z"
+  },
+  "__v": 0,
+  "image": "public\\uploads\\1724222835422-1724222766347-kodaikanal.jpg"
+},
+{
+  "_id": {
+    "$oid": "66c475ba636ba227bcde9c62"
+  },
+  "image": "public\\uploads\\1724214116264-ooty.jpg",
+  "status": "Approved",
+  "lat": 11.1674876,
+  "long": 77.3152116,
+  "owneremail": "owner@gmail.com",
+  "tourname": "Ooty",
+  "area": "flower garden ",
+  "duration": "3 Days",
+  "tourtype": "days and night to visit the tourist place",
+  "itinerary": "Arrive in Ooty and check into your hotel.\nEnjoy lunch at hotel restaurant",
+  "deparrival": "20.08.2024-23.08.2024",
+  "accdetails": "room,food",
+  "reportdrop": "text",
+  "tourinfo": "text",
+  "dateCreated": {
+    "$date": "2024-08-20T10:53:46.535Z"
+  },
+  "__v": 0
+}]
