@@ -5,3 +5,6 @@ client/node_modules/
 # Ignore .env file in backend folder
 backend/.env
 
+node_modules/ 
+
+

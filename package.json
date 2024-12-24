@@ -1,0 +1,22 @@
+{
+  "name": "src_delivery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+  "server": "cd backend && npm start",
+  "client": "cd client && npm run dev",
+  "build": "concurrently \"npm run build:server\" \"npm run build:client\"",
+  "build:server": "cd backend && npm install",
+  "build:client": "cd client && npm install"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}
